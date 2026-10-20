@@ -1,0 +1,8 @@
+USECASE:https://drive.google.com/file/d/1iVD-GiaQAb0FHkUv3H17sr34nw2NMh2i/view?usp=sharing
+ACTIVITY:https://drive.google.com/file/d/1gFyeOmrSPaDpfIdy13U_5AKwLSQcwarZ/view?usp=sharing
+CLASS:https://drive.google.com/file/d/1F_GXdZCBlTlFruFLnq_jR8qY-YU5StBq/view?usp=sharing
+SEQUENCE:https://drive.google.com/file/d/1rib8P2j_ynHpTE2WURFy6m6Sb_2Sq2Cl/view?usp=sharing
+COLLABRATION:https://drive.google.com/file/d/1ciK2VKFNOKpzC5a_3tB0Y0rY5hPcSZVq/view?usp=sharing
+PARTIAL:https://drive.google.com/file/d/1jLoPfiEozgq4thfo9aAcixISDkwLbkYg/view?usp=sharing
+DEPLOYMENT:https://drive.google.com/file/d/1bck584op7eqFYIw7DdriJdV_w-O53v5n/view?usp=sharing
+COMPONENT:https://drive.google.com/file/d/1qJopeCC-pFakULbFRDtIYWZNZMguAfYm/view?usp=sharing
